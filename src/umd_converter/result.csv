@@ -1,0 +1,154 @@
+	chrom	offset	ref	alt	Protein nomenclature	cDNA Nomenclature	Exon	Codon	Structure	HCD	Rearrangement	Mutation type	Mutational event	# records
+0	chrX	33211302	C	T	p.Trp4X	c.11G>A	1	4.0	Dp427m unique N-Ter		Small rearrangement	Ts	G->A	1.0
+1	chrX	32849777	T	A	p.Asp46Val	c.137A>T	3	46.0	Actin binding domain		Small rearrangement	Tv	A->T	2.0
+2	chrX	32844851	T	A	p.Lys66X	c.196A>T	4	66.0	Actin binding domain		Small rearrangement	Tv	A->T	1.0
+3	chrX	32844848	C	A	p.Gly67X	c.199G>T	4	67.0	Actin binding domain		Small rearrangement	Tv	G->T	1.0
+4	chrX	32844794	G	A	p.Gln85X	c.253C>T	4	85.0	Actin binding domain		Small rearrangement	Ts	C->T	3.0
+5	chrX	32816601	G	A	p.Gln133X	c.397C>T	6	133.0	Actin binding domain		Small rearrangement	Ts	C->T	2.0
+6	chrX	32816565	G	A	p.Arg145X	c.433C>T	6	145.0	Actin binding domain		Small rearrangement	Ts	C->T	7.0
+7	chrX	32816558	G	T	p.Ser147X	c.440C>A	6	147.0	Actin binding domain		Small rearrangement	Tv	C->A	1.0
+8	chrX	32809577	G	A	p.Gln189X	c.565C>T	7	189.0	Actin binding domain		Small rearrangement	Ts	C->T	1.0
+9	chrX	32809574	G	A	p.Gln190X	c.568C>T	7	190.0	Actin binding domain		Small rearrangement	Ts	C->T	1.0
+10	chrX	32809570	G	C	p.Ser191X	c.572C>G	7	191.0	Actin binding domain		Small rearrangement	Tv	C->G	1.0
+11	chrX	32809562	G	A	p.Gln194X	c.580C>T	7	194.0	Actin binding domain		Small rearrangement	Ts	C->T	1.0
+12	chrX	32809559	G	A	p.Arg195X	c.583C>T	7	195.0	Actin binding domain		Small rearrangement	Ts	C->T	2.0
+13	chrX	32809527	A	T	p.Tyr205X	c.615T>A	7	205.0	Actin binding domain		Small rearrangement	Tv	T->A	1.0
+14	chrX	32699290	A	C	p.Val218Gly	c.653T>G	8	218.0	Actin binding domain		Small rearrangement	Tv	T->G	1.0
+15	chrX	32699198	G	A	p.Gln249X	c.745C>T	8	249.0			Small rearrangement	Ts	C->T	1.0
+16	chrX	32699112	C	A	p.Gln277His	c.831G>T	8	277.0	CRD-hinge region #1		Small rearrangement	Tv	G->T	2.0
+17	chrX	32697947	G	A	p.Arg295X	c.883C>T	9	295.0	CRD-hinge region #1		Small rearrangement	Ts	C->T	1.0
+18	chrX	32697927	G	T	p.Tyr301X	c.903C>A	9	301.0	CRD-hinge region #1		Small rearrangement	Tv	C->A	1.0
+19	chrX	32697923	G	A	p.Gln303X	c.907C>T	9	303.0	CRD-hinge region #1		Small rearrangement	Ts	C->T	1.0
+20	chrX	32697874	G	C	p.Ser319X	c.956C>G	9	319.0	CRD-hinge region #1		Small rearrangement	Tv	C->G	1.0
+21	chrX	32645148	A	T	p.Leu322X	c.965T>A	10	322.0	CRD-hinge region #1		Small rearrangement	Tv	T->A	1.0
+22	chrX	32645137	C	A	p.Glu326X	c.976G>T	10	326.0	CRD-hinge region #1		Small rearrangement	Tv	G->T	1.0
+23	chrX	32645127	G	C	p.Ser329X	c.986C>G	10	329.0	CRD		Small rearrangement	Tv	C->G	1.0
+24	chrX	32645115	G	T	p.Ser333X	c.998C>A	10	333.0	CRD		Small rearrangement	Tv	C->A	2.0
+25	chrX	32645020	G	A	p.Gln365X	c.1093C>T	10	365.0	CRD-repeat #1		Small rearrangement	Ts	C->T	1.0
+26	chrX	32644256	C	A	p.Gly403X	c.1207G>T	11	403.0	CRD-repeat #1		Small rearrangement	Tv	G->T	1.0
+27	chrX	32644232	T	A	p.Lys411X	c.1231A>T	11	411.0	CRD-repeat #1		Small rearrangement	Tv	A->T	1.0
+28	chrX	32644225	G	T	p.Ser413X	c.1238C>A	11	413.0	CRD-repeat #1		Small rearrangement	Tv	C->A	1.0
+29	chrX	32644202	G	A	p.Gln421X	c.1261C>T	11	421.0	CRD-repeat #1		Small rearrangement	Ts	C->T	1.0
+30	chrX	32644177	G	C	p.Ser429X	c.1286C>G	11	429.0	CRD-repeat #1		Small rearrangement	Tv	C->G	1.0
+31	chrX	32644171	C	T	p.Trp431X	c.1292G>A	11	431.0	CRD-repeat #1		Small rearrangement	Ts	G->A	1.0
+32	chrX	32644170	C	T	p.Trp431X	c.1293G>A	11	431.0	CRD-repeat #1		Small rearrangement	Ts	G->A	2.0
+33	chrX	32614434	C	A	p.Asp451Tyr	c.1351G>T	12	451.0	CRD-repeat #2		Small rearrangement	Tv	G->T	1.0
+34	chrX	32614397	C	T	p.Trp463X	c.1388G>A	12	463.0	CRD-repeat #2		Small rearrangement	Ts	G->A	1.0
+35	chrX	32614311	G	A	p.Gln492X	c.1474C>T	12	492.0	CRD-repeat #2		Small rearrangement	Ts	C->T	1.0
+36	chrX	32573834	G	A	p.Arg539X	c.1615C>T	14	539.0	CRD-repeat #2		Small rearrangement	Ts	C->T	4.0
+37	chrX	32573796	C	T	p.Trp551X	c.1653G>A	14	551.0	CRD-repeat #2		Small rearrangement	Ts	G->A	1.0
+38	chrX	32573766	C	T	p.Trp561X	c.1683G>A	14	561.0	CRD-repeat #3		Small rearrangement	Ts	G->A	1.0
+39	chrX	32565877	A	C	p.Leu606X	c.1817T>G	16	606.0	CRD-repeat #3		Small rearrangement	Tv	T->G	1.0
+40	chrX	32565704	G	A	p.Gln664X	c.1990C>T	16	664.0	CRD-repeat #3		Small rearrangement	Ts	C->T	1.0
+41	chrX	32545328	G	A	p.Gln667X	c.1999C>T	17	667.0	CRD-repeat #3		Small rearrangement	Ts	C->T	1.0
+42	chrX	32545310	G	A	p.Gln673X	c.2017C>T	17	673.0	CRD-hinge region #2		Small rearrangement	Ts	C->T	1.0
+43	chrX	32545190	G	A	p.Gln713X	c.2137C>T	17	713.0	CRD-hinge region #2		Small rearrangement	Ts	C->T	1.0
+44	chrX	32518073	G	A	p.Gln743X	c.2227C>T	18	743.0	CRD-repeat #4		Small rearrangement	Ts	C->T	3.0
+45	chrX	32518019	C	A	p.Glu761X	c.2281G>T	18	761.0	CRD-repeat #4		Small rearrangement	Tv	G->T	1.0
+46	chrX	32501833	G	A	p.Arg768X	c.2302C>T	19	768.0	CRD-repeat #4		Small rearrangement	Ts	C->T	3.0
+47	chrX	32501821	C	A	p.Glu772X	c.2314G>T	19	772.0	CRD-repeat #4		Small rearrangement	Tv	G->T	1.0
+48	chrX	32501767	G	A	p.Gln790X	c.2368C>T	19	790.0	CRD-repeat #4		Small rearrangement	Ts	C->T	1.0
+49	chrX	32501757	T	C	p.Asn793Ser	c.2378A>G	19	793.0	CRD-repeat #4		Small rearrangement	Ts	A->G	1.0
+50	chrX	32491492	G	A	p.Gln803X	c.2407C>T	20	803.0	CRD-repeat #4		Small rearrangement	Ts	C->T	1.0
+51	chrX	32491378	G	A	p.Gln841X	c.2521C>T	20	841.0	CRD-repeat #5		Small rearrangement	Ts	C->T	1.0
+52	chrX	32491369	G	A	p.Gln844X	c.2530C>T	20	844.0	CRD-repeat #5		Small rearrangement	Ts	C->T	1.0
+53	chrX	32491341	A	T	p.Leu853X	c.2558T>A	20	853.0	CRD-repeat #5		Small rearrangement	Tv	T->A	1.0
+54	chrX	32485021	C	A	p.Gly901X	c.2701G>T	21	901.0	CRD-repeat #5		Small rearrangement	Tv	G->T	1.0
+55	chrX	32472280	G	A	p.Gln945X	c.2833C>T	22	945.0	CRD-repeat #6		Small rearrangement	Ts	C->T	1.0
+56	chrX	32472244	G	A	p.Gln957X	c.2869C>T	22	957.0	CRD-repeat #6		Small rearrangement	Ts	C->T	2.0
+57	chrX	32468692	G	A	p.Gln990X	c.2968C>T	23	990.0	CRD-repeat #6		Small rearrangement	Ts	C->T	1.0
+58	chrX	32468669	G	C	p.Tyr997X	c.2991C>G	23	997.0	CRD-repeat #6		Small rearrangement	Tv	C->G	2.0
+59	chrX	32468599	C	A	p.Glu1021X	c.3061G>T	23	1021.0	CRD-repeat #6		Small rearrangement	Tv	G->T	1.0
+60	chrX	32468584	C	A	p.Glu1026X	c.3076G>T	23	1026.0	CRD-repeat #6		Small rearrangement	Tv	G->T	1.0
+61	chrX	32468509	G	A	p.Arg1051X	c.3151C>T	23	1051.0	CRD-repeat #7		Small rearrangement	Ts	C->T	3.0
+62	chrX	32463534	G	A	p.Gln1113X	c.3337C>T	25	1113.0	CRD-repeat #7		Small rearrangement	Ts	C->T	2.0
+63	chrX	32463474	C	A	p.Glu1133X	c.3397G>T	25	1133.0	CRD-repeat #7		Small rearrangement	Tv	G->T	1.0
+64	chrX	32463444	G	A	p.Gln1143X	c.3427C>T	25	1143.0	CRD-repeat #7		Small rearrangement	Ts	C->T	1.0
+65	chrX	32454730	C	A	p.Glu1179X	c.3535G>T	26	1179.0	CRD-repeat #8		Small rearrangement	Tv	G->T	5.0
+66	chrX	32454685	G	A	p.Gln1194X	c.3580C>T	26	1194.0	CRD-repeat #8		Small rearrangement	Ts	C->T	2.0
+67	chrX	32448535	A	T	p.Leu1236X	c.3707T>A	27	1236.0	CRD-repeat #8		Small rearrangement	Tv	T->A	1.0
+68	chrX	32448496	C	T	p.Trp1249X	c.3746G>A	27	1249.0	CRD-repeat #8		Small rearrangement	Ts	G->A	1.0
+69	chrX	32441279	G	T	p.Tyr1274X	c.3822C>A	28	1274.0	CRD-repeat #9		Small rearrangement	Tv	C->A	1.0
+70	chrX	32438377	A	T	p.Leu1312X	c.3935T>A	29	1312.0	CRD-repeat #9		Small rearrangement	Tv	T->A	1.0
+71	chrX	32438372	G	A	p.Arg1314X	c.3940C>T	29	1314.0	CRD-repeat #9		Small rearrangement	Ts	C->T	3.0
+72	chrX	32411901	G	A	p.Gln1362X	c.4084C>T	30	1362.0	CRD-repeat #9		Small rearrangement	Ts	C->T	1.0
+73	chrX	32411877	G	A	p.Gln1370X	c.4108C>T	30	1370.0	CRD-repeat #10		Small rearrangement	Ts	C->T	1.0
+74	chrX	32411838	G	A	p.Gln1383X	c.4147C>T	30	1383.0	CRD-repeat #10		Small rearrangement	Ts	C->T	1.0
+75	chrX	32390165	A	T	p.Leu1417X	c.4250T>A	31	1417.0	CRD-repeat #10		Small rearrangement	Tv	T->A	1.0
+76	chrX	32390121	G	A	p.Gln1432X	c.4294C>T	31	1432.0	CRD-repeat #10		Small rearrangement	Ts	C->T	1.0
+77	chrX	32386457	A	T	p.Tyr1509X	c.4527T>A	33	1509.0	CRD-repeat #11		Small rearrangement	Tv	T->A	1.0
+78	chrX	32380644	T	A	p.Lys1571X	c.4711A>T	34	1571.0	CRD-repeat #12		Small rearrangement	Tv	A->T	2.0
+79	chrX	32380632	T	A	p.Lys1575X	c.4723A>T	34	1575.0	CRD-repeat #12		Small rearrangement	Tv	A->T	1.0
+80	chrX	32380626	G	A	p.Arg1577X	c.4729C>T	34	1577.0	CRD-repeat #12		Small rearrangement	Ts	C->T	2.0
+81	chrX	32380578	C	A	p.Glu1593X	c.4777G>T	34	1593.0	CRD-repeat #12		Small rearrangement	Tv	G->T	1.0
+82	chrX	32365193	G	A	p.Gln1618X	c.4852C>T	35	1618.0	CRD-repeat #12		Small rearrangement	Ts	C->T	1.0
+83	chrX	32365175	G	A	p.Gln1624X	c.4870C>T	35	1624.0	CRD-repeat #12		Small rearrangement	Ts	C->T	1.0
+84	chrX	32365091	T	A	p.Lys1652X	c.4954A>T	35	1652.0	CRD-repeat #12		Small rearrangement	Tv	A->T	1.0
+85	chrX	32365049	G	A	p.Arg1666X	c.4996C>T	35	1666.0	CRD-repeat #12		Small rearrangement	Ts	C->T	6.0
+86	chrX	32364654	C	T	p.Trp1694X	c.5082G>A	36	1694.0	CRD-repeat #13		Small rearrangement	Ts	G->A	1.0
+87	chrX	32362826	G	A	p.Arg1763X	c.5287C>T	37	1763.0	CRD-repeat #13		Small rearrangement	Ts	C->T	4.0
+88	chrX	32362799	T	A	p.Lys1772X	c.5314A>T	37	1772.0	CRD-repeat #13		Small rearrangement	Tv	A->T	1.0
+89	chrX	32348447	G	A	p.Gln1803X	c.5407C>T	38	1803.0	CRD-repeat #14		Small rearrangement	Ts	C->T	2.0
+90	chrX	32346049	A	T	p.Leu1827X	c.5480T>A	39	1827.0	CRD-repeat #14		Small rearrangement	Tv	T->A	1.0
+91	chrX	32345999	G	A	p.Arg1844X	c.5530A>T	39	1844.0	CRD-repeat #14		Small rearrangement	Tv	A->T	2.0
+92	chrX	32345978	G	A	p.Gln1851X	c.5551C>T	39	1851.0	CRD-repeat #14		Small rearrangement	Ts	C->T	1.0
+93	chrX	32343265	T	A	p.Lys1870X	c.5608A>T	40	1870.0	CRD-repeat #14		Small rearrangement	Tv	A->T	3.0
+94	chrX	32343236	C	T	p.Trp1879X	c.5637G>A	40	1879.0	CRD-repeat #15		Small rearrangement	Ts	G->A	1.0
+95	chrX	32343220	G	A	p.Gln1885X	c.5653C>T	40	1885.0	CRD-repeat #15		Small rearrangement	Ts	C->T	1.0
+96	chrX	32342123	G	A	p.Arg1967X	c.5899C>T	41	1967.0	CRD-repeat #15		Small rearrangement	Ts	C->T	1.0
+97	chrX	32287581	G	A	p.Gln2080X	c.6238C>T	43	2080.0	CRD-repeat #16		Small rearrangement	Ts	C->T	1.0
+98	chrX	32287564	C	T	p.Trp2085X	c.6255G>A	43	2085.0	CRD-repeat #16		Small rearrangement	Ts	G->A	2.0
+99	chrX	32287543	G	C	p.Tyr2092X	c.6276C>G	43	2092.0	CRD-repeat #16		Small rearrangement	Tv	C->G	1.0
+100	chrX	32287536	G	A	p.Arg2095X	c.6283C>T	43	2095.0	CRD-repeat #16		Small rearrangement	Ts	C->T	2.0
+101	chrX	32217062	G	A	p.Arg2098X	c.6292C>T	44	2098.0	CRD-repeat #16		Small rearrangement	Ts	C->T	4.0
+102	chrX	32216990	C	A	p.Glu2122X	c.6364G>T	44	2122.0	CRD-repeat #17		Small rearrangement	Tv	G->T	1.0
+103	chrX	31932109	G	A	p.Gln2245X	c.6733C>T	46	2245.0	CRD-repeat #18		Small rearrangement	Ts	C->T	1.0
+104	chrX	31932100	C	A	p.Glu2248X	c.6742G>T	46	2248.0	CRD-repeat #18		Small rearrangement	Tv	G->T	1.0
+105	chrX	31929628	T	A	p.Lys2294X	c.6880A>T	47	2294.0	CRD-repeat #18		Small rearrangement	Tv	A->T	1.0
+106	chrX	31875276	A	C	p.Leu2337X	c.7010T>G	48	2337.0	CRD-repeat #19		Small rearrangement	Tv	T->G	1.0
+107	chrX	31836813	C	A	p.Glu2369X	c.7105G>T	49	2369.0	CRD-repeat #19		Small rearrangement	Tv	G->T	1.0
+108	chrX	31774124	C	A	p.Glu2460X	c.7378G>T	51	2460.0	CRD-hinge region #3		Small rearrangement	Tv	G->T	1.0
+109	chrX	31729727	G	A	p.Gln2522X	c.7564C>T	52	2522.0	CRD-repeat #20		Small rearrangement	Ts	C->T	1.0
+110	chrX	31729634	G	A	p.Arg2553X	c.7657C>T	52	2553.0	CRD-repeat #20		Small rearrangement	Ts	C->T	6.0
+111	chrX	31679511	A	T	p.Leu2579X	c.7736T>A	53	2579.0	CRD-repeat #21		Small rearrangement	Tv	T->A	1.0
+112	chrX	31658008	C	T	p.Trp2670X	c.8009G>A	54	2670.0	CRD-repeat #21		Small rearrangement	Ts	G->A	1.0
+113	chrX	31627852	G	A	p.Arg2680X	c.8038C>T	55	2680.0	CRD-repeat #21		Small rearrangement	Ts	C->T	2.0
+114	chrX	31627816	G	A	p.Gln2692X	c.8074C>T	55	2692.0	CRD-repeat #22		Small rearrangement	Ts	C->T	1.0
+115	chrX	31627714	C	A	p.Glu2726X	c.8176G>T	55	2726.0	CRD-repeat #22		Small rearrangement	Tv	G->T	1.0
+116	chrX	31627676	C	T	p.Trp2738X	c.8214G>A	55	2738.0	CRD-repeat #22		Small rearrangement	Ts	G->A	1.0
+117	chrX	31496915	C	T	p.Trp2807X	c.8420G>A	57	2807.0	CRD-repeat #23		Small rearrangement	Ts	G->A	1.0
+118	chrX	31479043	G	A	p.Arg2870X	c.8608C>T	58	2870.0	CRD-repeat #23		Small rearrangement	Ts	C->T	5.0
+119	chrX	31478983	C	T	p.Glu2890Lys	c.8668G>A	58-59	2890.0	CRD-repeat #23		Small rearrangement	Ts	G->A	1.0
+120	chrX	31478351	G	A	p.Gln2898X	c.8692C>T	59	2898.0	CRD-repeat #23		Small rearrangement	Ts	C->T	1.0
+121	chrX	31478330	G	A	p.Arg2905X	c.8713C>T	59	2905.0	CRD-repeat #23		Small rearrangement	Ts	C->T	2.0
+122	chrX	31478324	G	A	p.Gln2907X	c.8719C>T	59	2907.0	CRD-repeat #23		Small rearrangement	Ts	C->T	1.0
+123	chrX	31478315	C	A	p.Glu2910X	c.8728G>T	59	2910.0	CRD-repeat #23		Small rearrangement	Tv	G->T	1.0
+124	chrX	31478234	G	A	p.Gln2937X	c.8809C>T	59	2937.0	CRD-repeat #24		Small rearrangement	Ts	C->T	1.0
+125	chrX	31478129	G	A	p.Gln2972X	c.8914C>T	59	2972.0	CRD-repeat #24		Small rearrangement	Ts	C->T	2.0
+126	chrX	31444621	G	A	p.Arg2982X	c.8944C>T	60	2982.0	CRD-repeat #24		Small rearrangement	Ts	C->T	2.0
+127	chrX	31348571	G	A	p.Gln3050X	c.9148C>T	61	3050.0	CRD-hinge region #4		Small rearrangement	Ts	C->T	1.0
+128	chrX	31323606	G	T	p.Tyr3072X	c.9216C>A	62	3072.0	CRD-hinge region #4		Small rearrangement	Tv	C->A	1.0
+129	chrX	31223071	G	A	p.Arg3113X	c.9337C>T	64	3113.0	Cystein-rich domain		Small rearrangement	Ts	C->T	2.0
+130	chrX	31223062	G	A	p.Gln3116X	c.9346C>T	64	3116.0	Cystein-rich domain		Small rearrangement	Ts	C->T	2.0
+131	chrX	31209658	G	A	p.Gln3135X	c.9403C>T	65	3135.0	Cystein-rich domain		Small rearrangement	Ts	C->T	3.0
+132	chrX	31209616	G	A	p.Gln3149X	c.9445C>T	65	3149.0	Cystein-rich domain		Small rearrangement	Ts	C->T	2.0
+133	chrX	31206663	G	A	p.Arg3190X	c.9568C>T	66	3190.0	Cystein-rich domain		Small rearrangement	Ts	C->T	13.0
+134	chrX	31204117	G	T	p.Tyr3217X	c.9651C>A	66-67	3217.0	Cystein-rich domain		Small rearrangement	Tv	C->A	1.0
+135	chrX	31204077	G	A	p.Gln3231X	c.9691C>T	67	3231.0	Cystein-rich domain		Small rearrangement	Ts	C->T	1.0
+136	chrX	31182757	A	G	p.Cys3319Arg	c.9955T>C	68	3319.0	Carboxy-terminal region		Small rearrangement	Ts	T->C	2.0
+137	chrX	31180461	A	C	p.Phe3332Cys	c.9995T>G	69	3332.0	Carboxy-terminal region		Small rearrangement	Tv	T->G	2.0
+138	chrX	31180453	C	A	p.Asp3335Tyr	c.10003G>T	69	3335.0	Carboxy-terminal region		Small rearrangement	Tv	G->T	1.0
+139	chrX	31180438	A	G	p.Cys3340Arg	c.10018T>C	69	3340.0	Carboxy-terminal region		Small rearrangement	Ts	T->C	1.0
+140	chrX	31180423	G	A	p.Arg3345X	c.10033C>T	69	3345.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	2.0
+141	chrX	31178790	C	G	p.Asp3368His	c.10102G>C	70	3368.0	Carboxy-terminal region		Small rearrangement	Tv	G->C	1.0
+142	chrX	31178784	G	A	p.Arg3370X	c.10108C>T	70	3370.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	7.0
+143	chrX	31178757	T	A	p.Lys3379X	c.10135A>T	70	3379.0	Carboxy-terminal region		Small rearrangement	Tv	A->T	1.0
+144	chrX	31178751	G	A	p.Arg3381X	c.10141C>T	70	3381.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	10.0
+145	chrX	31178721	G	A	p.Arg3391X	c.10171C>T	70	3391.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	12.0
+146	chrX	31173588	G	A	p.Gln3427X	c.10279C>T	72	3427.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	1.0
+147	chrX	31172380	A	T	p.Tyr3454X	c.10362T>A	73	3454.0	Carboxy-terminal region		Small rearrangement	Tv	T->A	1.0
+148	chrX	31172355	C	A	p.Glu3463X	c.10387G>T	73	3463.0	Carboxy-terminal region		Small rearrangement	Tv	G->T	1.0
+149	chrX	31169584	A	T	p.Leu3471X	c.10412T>A	74	3471.0	Carboxy-terminal region		Small rearrangement	Tv	T->A	1.0
+150	chrX	31147500	A	T	p.Tyr3524X	c.10572T>A	75	3524.0	Carboxy-terminal region		Small rearrangement	Tv	T->A	1.0
+151	chrX	31147307	G	A	p.Gln3589X	c.10765C>T	75	3589.0	Carboxy-terminal region		Small rearrangement	Ts	C->T	1.0
+152	chrX	31146302	G	T	p.Ser3637X	c.10910C>A	76	3637.0	Carboxy-terminal region		Small rearrangement	Tv	C->A	4.0
